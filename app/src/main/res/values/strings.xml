@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">convRealDolar</string>
+    <string name="Real" translatable="false">Insira o Valor</string>
+</resources>
